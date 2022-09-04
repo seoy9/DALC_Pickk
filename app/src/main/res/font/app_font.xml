@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <font
+        android:font="@font/pretendardblack"
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        app:font="@font/pretendardblack"
+        app:fontStyle="normal"
+        app:fontWeight="300"
+        tools:targetApi="o" />
+
+    <font
+        android:font="@font/pretendardlight"
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        app:font="@font/pretendardlight"
+        app:fontStyle="normal"
+        app:fontWeight="300"
+        tools:targetApi="o" />
+
+    <font
+        android:font="@font/pretendardregular"
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        app:font="@font/pretendardregular"
+        app:fontStyle="normal"
+        app:fontWeight="300"
+        tools:targetApi="o" />
+
+    <font
+        android:font="@font/pretendardmedium"
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        app:font="@font/pretendardmedium"
+        app:fontStyle="normal"
+        app:fontWeight="300"
+        tools:targetApi="o" />
+
+
+</font-family>

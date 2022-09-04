@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Pickk</string>
+
+    <!-- which way-->
+    <string name="way_question">음료를 고르는 방식을\n선택해주세요!</string>
+
+    <!-- survey -->
+    <string name="hot_ice_question">카페에 간 당신,\n어떤 음료를 마시고 싶으신가요?</string>
+    <string name="milk_question">우유가 들어간 음료, 들어가지 않은\n음료 어떤 음료가 마시고 싶으신가요?</string>
+    <string name="caffeine_question">카페인이 필요하신가요?</string>
+    <string name="coffee_non_question">커피, 커피가 아닌 음료 중\n어떤 음료를 마시고 싶으신가요?</string>
+    <string name="taste_question">어떤 맛의 음료를 마시고 싶으신가요?</string>
+    <string name="carbon_question">탄산이 들어간 음료, 들어가지 않은 음료\n어떤 음료를 마시고 싶으신가요?</string>
+
+    <!-- cafe -->
+    <string name="cafe_question">결과 준비되었습니다!\n어느 카페에 가시겠어요?</string>
+
+    <!-- 테스트 용 -->
+    <!-- beverage -->
+    <!--
+    <string name="beverage_name">딸기 아사이 레모네이드\n스타벅스 리프레셔</string>
+    <string name="beverage_eng_name">Strawberry Acai with Lemonade \nStarbucks Refreshers</string>
+    <string name="beverage_kcal_cost">Starbucks / 105kcal</string>
+    <string name="beverage_info">딸기, 아사이베리 주스와 레모네이드가 달콤 상콤하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료</string>
+    <string name="beverage_nutrients">1회 제공량 (kcal) : 105\n포화지방 (g) : 0\n단백질 (g) : 1\n나트륨 (mg) : 0\n당류 (g) : 24\n카페인 (mg) : 30</string>
+
+    <string name="beverage_name2">허니 얼 그레이 밀크 티</string>
+    <string name="beverage_eng_name2">Honey Earl Grey Milk Tea</string>
+    <string name="beverage_kcal_cost2">Starbucks / 395kcal</string>
+
+    <string name="beverage_name3">플러피 판다 아이스 초콜릿</string>
+    <string name="beverage_eng_name3">Fluffy Panda Iced Chocolate</string>
+    <string name="beverage_kcal_cost3">Starbucks / 415kcal</string>
+
+    <string name="beverage">딸기 아사이 레모네이드\n스타벅스 리프레셔\n\n\n딸기, 아사이베리 주스와 레모네이드가 달콤 상콤하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료\n\n\n1회 제공량 (kcal) : 105\n포화지방 (g) : 0\n단백질 (g) : 1\n나트륨 (mg) : 0\n당류 (g) : 24\n카페인 (mg) : 30</string>
+    -->
+
+    <!-- info -->
+    <string name="info_content">안녕하세요 :)\n\n저희는 동덕여자대학교 AI 동아리 DALC입니다.\n
+        DALC(Dongduk AI Learning Crew)는 하나의 웹/앱 서비스를 완성해가며 협업 능력을 기르고,\n빅데이터 기술을 익히는 동아리입니다.\n\n
+        카페에서 주문할 때 메뉴 고민 시간을 단축해주는\n프랜차이즈 음료 추천 서비스 PICKK의 개발자\nDALC 3기의 4조를 소개합니다.\n\n
+        기획 : 명재인\n디자인 : 류동하, 신예슬\nAI : 곽채원, 배채은\n프론트엔드 : 이하린, 홍서연\n백엔드 : 문지영, 한찬희
+    </string>
+
+    <string name="info_ask">제공된 메뉴가 마음에 안 드시거나\n건의하고 싶은 내용이 있으시다면\n버튼을 눌러주세요!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
