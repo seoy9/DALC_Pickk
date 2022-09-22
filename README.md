@@ -1,5 +1,9 @@
 # DALC_Pickk
-동덕여대 AI 동아리 DALC 프로젝트 : Pickk
+동덕여대 AI 동아리 DALC 3기 프로젝트 : Pickk   
+담당 Skills & 사용 Libraries: Android, Kotlin   
+소개: 간단한 설문을 통해 취향에 맞는 프랜차이즈 음료를 추천하는 앱   
+진행 기간: 2022/03/15 → 2022/08/26   
+팀 구성: 기획 1명, 디자이너 2명, AI 2명, Android 2명, BE 2명   
 
 ## 📖 상세 내용
 
